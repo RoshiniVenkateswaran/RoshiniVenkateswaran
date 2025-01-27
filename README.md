@@ -6,12 +6,10 @@
 
 <div style="text-align: center;">
     <a href="https://github.com/RoshiniVenkateswaran/RoshiniVenkateswaran/blob/main/Resume%20-%20Roshini%20Venkateswaran.pdf" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Download Resume" />
+        <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Resume" />
     </a>
 </div>
 
-
----
 
 ## 🛠️ Technical Skills  
 
