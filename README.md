@@ -26,8 +26,7 @@
 
 ## 📫 Connect with Me  
 - **LinkedIn:** [Roshini Venkateswaran](https://www.linkedin.com/in/roshini-venkat)
-- **LeetCode:** [Roshini Venkateswaran](https://leetcode.com/u/user4723HU/)
-- **GitHub:** [RoshiniVenkateswaran](https://github.com/RoshiniVenkateswaran)  
+- **LeetCode:** [Roshini Venkateswaran](https://leetcode.com/u/user4723HU/) 
 - **Email:** [roshiniv@gwmail.gwu.edu](mailto:roshiniv@gwmail.gwu.edu)  
 
 ---
