@@ -7,7 +7,7 @@
 
 <div style="text-align: center;">
     <a href="https://github.com/RoshiniVenkateswaran/RoshiniVenkateswaran/blob/main/Resume%20-%20Roshini%20Venkateswaran.pdf" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Download%20Resume-%23833EA5?logo=google-drive&logoColor=white&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/-Resume-%23833EA5?logo=google-drive&logoColor=white&style=for-the-badge" alt="Resume"/>
     </a>
     <a href="https://www.linkedin.com/in/roshini-venkat" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
