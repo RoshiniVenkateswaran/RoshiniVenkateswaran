@@ -3,6 +3,12 @@
 🌟 **Aspiring Software Engineer | MS in Computer Science at George Washington University**  
 💻 Passionate about leveraging technology to solve real-world problems, with expertise in AI, cloud computing, and mobile app development.
 
+<div style="text-align: center;">
+    <a href="https://github.com/Hidhayath-Nisha/Portfolio/blob/main/assets/Hidhayath%20Nisha%20Mohamed%20Idris%20-%20Resume.pdf" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Download Resume" />
+    </a>
+</div>
+
 ---
 
 ## 🛠️ Technical Skills  
@@ -18,13 +24,9 @@
 
 ---
 
-## 🏆 Achievements  
-- **Publication:** *Augmented Reality-based Education Ecosystem for Specially-Abled Children*, published in Springer Link. [Read more](https://link.springer.com/chapter/10.1007/978-981-99-6568-7_10)  
-
----
-
 ## 📫 Connect with Me  
-- **LinkedIn:** [Roshini Venkateswaran](https://www.linkedin.com/in/roshini-venkat)  
+- **LinkedIn:** [Roshini Venkateswaran](https://www.linkedin.com/in/roshini-venkat)
+- **LeetCode:** [Roshini Venkateswaran](https://leetcode.com/u/user4723HU/)
 - **GitHub:** [RoshiniVenkateswaran](https://github.com/RoshiniVenkateswaran)  
 - **Email:** [roshiniv@gwmail.gwu.edu](mailto:roshiniv@gwmail.gwu.edu)  
 
