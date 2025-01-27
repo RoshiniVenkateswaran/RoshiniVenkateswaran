@@ -7,7 +7,7 @@
 
 <div style="text-align: center;">
     <a href="https://github.com/RoshiniVenkateswaran/RoshiniVenkateswaran/blob/main/Resume%20-%20Roshini%20Venkateswaran.pdf" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Resume"/>
+        <img src="https://img.shields.io/badge/-Download%20Resume-purple?style=flat-square&logo=google-drive&logoColor=white" alt="Resume"/>
     </a>
     <a href="https://www.linkedin.com/in/roshini-venkat" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,6 +15,9 @@
     <a href="https://leetcode.com/u/user4723HU/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
+   
+</div>
+
 </div>
 
 ## 🛠️ Technical Skills  
