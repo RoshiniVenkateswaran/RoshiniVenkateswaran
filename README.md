@@ -25,7 +25,8 @@
 ## 🛠️ Technical Skills  
 
 ### Programming Languages  
-<img src="https://img.shields.io/badge/-C++-%2300599C?logo=c%2b%2b&logoColor=white&style=for-the-badge" alt="C++" />
+<div>
+    <img src="https://img.shields.io/badge/-C++-%2300599C?logo=c%2b%2b&logoColor=white&style=for-the-badge" alt="C++" />
 <img src="https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
 <img src="https://img.shields.io/badge/-Java-%23007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
@@ -34,6 +35,8 @@
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
 <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
 <img src="https://img.shields.io/badge/-C%23-%23833EA5?logo=csharp&logoColor=white&style=for-the-badge" alt="C#" />
+
+</div>
 
 ### Frameworks & Libraries  
 <img src="https://img.shields.io/badge/-Flutter-%2302569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
