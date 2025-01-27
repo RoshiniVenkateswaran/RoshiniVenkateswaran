@@ -2,7 +2,9 @@
 
 🌟 **Aspiring Software Engineer | MS in Computer Science at George Washington University**  
 💻 Passionate about leveraging technology to solve real-world problems, with expertise in AI, cloud computing, and mobile app development.
+
 🚀 Open to Summer 2025 Internship opportunities - Sofware Developer Intern, Mobile App Developer Intern, ML Intern.
+
 📧 Reach me out at roshiniv@gmail.com
 
 <div style="text-align: center;">
