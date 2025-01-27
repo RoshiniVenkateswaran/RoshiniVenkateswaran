@@ -33,10 +33,6 @@
 
 ---
 
-## 📫 Connect with Me  
-- **LinkedIn:** [Roshini Venkateswaran](https://www.linkedin.com/in/roshini-venkat)
-- **LeetCode:** [Roshini Venkateswaran](https://leetcode.com/u/user4723HU/) 
 
----
 
 🌟 Let's collaborate and build something amazing together!
