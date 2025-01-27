@@ -3,11 +3,13 @@
 🌟 **Aspiring Software Engineer | MS in Computer Science at George Washington University**  
 💻 Passionate about leveraging technology to solve real-world problems, with expertise in AI, cloud computing, and mobile app development.
 
+
 <div style="text-align: center;">
-    <a href="https://github.com/Hidhayath-Nisha/Portfolio/blob/main/assets/Hidhayath%20Nisha%20Mohamed%20Idris%20-%20Resume.pdf" style="text-decoration: none;">
+    <a href="https://github.com/RoshiniVenkateswaran/RoshiniVenkateswaran/blob/main/Resume%20-%20Roshini%20Venkateswaran.pdf" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Download Resume" />
     </a>
 </div>
+
 
 ---
 
