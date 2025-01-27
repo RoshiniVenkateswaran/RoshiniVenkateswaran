@@ -39,14 +39,17 @@
 </div>
 
 ### Frameworks & Libraries  
+<div> 
 <img src="https://img.shields.io/badge/-Flutter-%2302569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
 <img src="https://img.shields.io/badge/-Spring-%236DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring" />
 <img src="https://img.shields.io/badge/-Unity-%23000000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity" />
 <img src="https://img.shields.io/badge/-TensorFlow-%23FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/-Keras-%23D00000?logo=keras&logoColor=white&style=for-the-badge" alt="Keras" />
 <img src="https://img.shields.io/badge/-REST%20API-%23000000?logo=api&logoColor=white&style=for-the-badge" alt="REST API" />
+</div>
 
-### Tools & Platforms  
+### Tools & Platforms 
+<div>
 <img src="https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
 <img src="https://img.shields.io/badge/-GitHub-%23181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
 <img src="https://img.shields.io/badge/-VS%20Code-%23007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code" />
@@ -55,12 +58,14 @@
 <img src="https://img.shields.io/badge/-Supabase-%2336C493?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase" />
 <img src="https://img.shields.io/badge/-AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
 <img src="https://img.shields.io/badge/-IBM%20Cloud-%231187C9?logo=ibm-cloud&logoColor=white&style=for-the-badge" alt="IBM Cloud" />
+</div>
 
 ### Databases & Cloud  
+<div>
 <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
 <img src="https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
 <img src="https://img.shields.io/badge/-Relational%20DB-%234E73B9?logo=database&logoColor=white&style=for-the-badge" alt="Relational Database" />
-
+</div>
 
 
 🌟 Let's collaborate and build something amazing together!
