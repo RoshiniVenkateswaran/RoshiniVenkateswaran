@@ -7,18 +7,16 @@
 
 <div style="text-align: center;">
     <a href="https://github.com/RoshiniVenkateswaran/RoshiniVenkateswaran/blob/main/Resume%20-%20Roshini%20Venkateswaran.pdf" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Download%20Resume-purple?style=flat-square&logo=google-drive&logoColor=white" alt="Resume"/>
+        <img src="https://img.shields.io/badge/-Download%20Resume-%23833EA5?logo=google-drive&logoColor=white&style=for-the-badge" alt="Resume" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/roshini-venkat" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://leetcode.com/u/user4723HU/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+        <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
     </a>
-   
 </div>
+
 
 </div>
 
