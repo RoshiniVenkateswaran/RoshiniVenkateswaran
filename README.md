@@ -31,8 +31,5 @@
 ### Databases & Cloud
 <img src="https://img.shields.io/badge/MySQL-blue" height="25"> <img src="https://img.shields.io/badge/MongoDB-green" height="25"> <img src="https://img.shields.io/badge/Relational%20DB-brightgreen" height="25">
 
----
-
-
 
 🌟 Let's collaborate and build something amazing together!
