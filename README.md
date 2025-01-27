@@ -1,8 +1,8 @@
 # Hi there, I'm Roshini Venkateswaran 👋  
 
 🌟 **Aspiring Software Engineer | MS in Computer Science at George Washington University**  
-💻 Passionate about leveraging technology to solve real-world problems, with expertise in AI, cloud computing, and mobile app development.
-🚀 Open to Summer 2025 internship opportunities in ML / Sofware Engineering roles 
+💻 Passionate about leveraging technology to solve real-world problems, with expertise in AI, cloud computing, and mobile app development.                              
+🚀 Open to Summer 2025 internship opportunities in ML / Sofware Engineering roles                                                             
 📧 Reach me out at roshiniv@gmail.com
 
 <div style="text-align: center;">
@@ -10,7 +10,6 @@
         <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Resume"/>
     </a>
 </div>
-
 
 ## 🛠️ Technical Skills  
 
