@@ -2,11 +2,12 @@
 
 🌟 **Aspiring Software Engineer | MS in Computer Science at George Washington University**  
 💻 Passionate about leveraging technology to solve real-world problems, with expertise in AI, cloud computing, and mobile app development.
-
+🚀 Open to Summer 2025 Internship opportunities - Sofware Developer Intern, Mobile App Developer Intern, ML Intern.
+📧 Reach me out at roshiniv@gmail.com
 
 <div style="text-align: center;">
     <a href="https://github.com/RoshiniVenkateswaran/RoshiniVenkateswaran/blob/main/Resume%20-%20Roshini%20Venkateswaran.pdf" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Resume" />
+        <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Resume"/>
     </a>
 </div>
 
@@ -27,7 +28,6 @@
 ## 📫 Connect with Me  
 - **LinkedIn:** [Roshini Venkateswaran](https://www.linkedin.com/in/roshini-venkat)
 - **LeetCode:** [Roshini Venkateswaran](https://leetcode.com/u/user4723HU/) 
-- **Email:** [roshiniv@gwmail.gwu.edu](mailto:roshiniv@gwmail.gwu.edu)  
 
 ---
 
