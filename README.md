@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/roshini-venkat" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
     </a>
-    <a href="https://leetcode.com/u/user4723HU/" style="text-decoration: none;">
+    <a href="https://leetcode.com/u/roshv01/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
     </a>
 </div>
